@@ -12,6 +12,8 @@ Although conclusions are drawn from the data, this project is intended to explor
 ## Files
 The files included are the main Python script, supporting SQL script, Tableau dashboards, initial data and final data.
 
+All scripts, along with the Tableau file are available in the main branch. Input and output files are available in their respective branches.
+
 ## Data Sources
 Main superstore data - https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
