@@ -3,7 +3,7 @@
 ## Description
 Data relating to consumer purchasing details from a superstore was analysed. Using Python the data was cleaned and prepared for analysis. Using various methods within the Python Pandas library, data regarding the postal and product information from consumer orders was analysed.
 
-The final data was visualised using Tableau, creating 2 dashboards relating to the postal and product analysis. The Tableau workbooks are available below under "files".
+The final data was visualised using Tableau, creating 2 dashboards relating to the postal and product analysis.
 
 SQL queries were also written to replicate the queries performed during the analysis and are available as a supporting document.
 
