@@ -24,7 +24,7 @@ Postal Dashboard - https://public.tableau.com/views/PersonalProject1-Postal/Deli
 These dashboards are intended to be viewed in full screen, and may look cluttered if viewed otherwise.
 
 ## Data Sources
-Main superstore data - https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+Main superstore data - https://www.kaggle.com/datasets/vivek468/superstore-dataset-final (sql version has modified collumn headings)
 
 Supporting Post Offic Data - https://blog.evankalish.com/2017/04/number-of-post-offices-by-state-2017.html (self collected)
 
