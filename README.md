@@ -19,7 +19,7 @@ The Tableau workbook can't be uploaded directly to github, but is available thro
 
 Product Dashboard - https://public.tableau.com/views/PersonalProject1-Products/Products?:language=en-GB&:display_count=n&:origin=viz_share_link
 
-Postal Dashboard - https://public.tableau.com/views/PersonalProjects1-Postal/DeliveryTimes?:language=en-GB&:display_count=n&:origin=viz_share_link
+Postal Dashboard - https://public.tableau.com/views/PersonalProject1-Postal/DeliveryTimes?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 These dashboards are intended to be viewed in full screen, and may look cluttered if viewed otherwise.
 
