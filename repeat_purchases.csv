@@ -1,0 +1,18 @@
+,Sub-Category,Avg Time Between Purchases,Rank,Category
+0,Binders,343,1.0,Office Supplies
+1,Paper,285,2.0,Office Supplies
+2,Furnishings,177,3.0,Furniture
+3,Phones,152,4.0,Technology
+4,Storage,145,5.0,Office Supplies
+5,Accessories,127,6.0,Technology
+6,Art,124,7.0,Office Supplies
+7,Chairs,96,8.0,Furniture
+8,Appliances,54,9.0,Office Supplies
+9,Labels,32,10.0,Office Supplies
+10,Tables,23,11.0,Furniture
+11,Envelopes,20,12.0,Office Supplies
+12,Bookcases,16,13.0,Furniture
+13,Supplies,16,13.0,Office Supplies
+14,Fasteners,13,15.0,Office Supplies
+15,Machines,8,16.0,Technology
+16,Copiers,2,17.0,Technology
