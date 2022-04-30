@@ -17,7 +17,7 @@ All scripts, along with the Tableau file are available in the main branch. Input
 The Tableau workbook can't be uploaded directly to github, but is available throguh the following links:
 
 
-Product Dashboard - https://public.tableau.com/views/PersonalProject1-Products/Products?:language=en-GB&:display_count=n&:origin=viz_share_link
+Product Dashboard - https://public.tableau.com/views/PersonalProjects1-Products/Products?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 Postal Dashboard - https://public.tableau.com/views/PersonalProject1-Postal/DeliveryTimes?:language=en-GB&:display_count=n&:origin=viz_share_link
 
